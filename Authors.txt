@@ -1,0 +1,10 @@
+<span>by <small class="author" itemprop="author">Albert Einstein
+<span>by <small class="author" itemprop="author">J.K. Rowling
+<span>by <small class="author" itemprop="author">Albert Einstein
+<span>by <small class="author" itemprop="author">Jane Austen
+<span>by <small class="author" itemprop="author">Marilyn Monroe
+<span>by <small class="author" itemprop="author">Albert Einstein
+<span>by <small class="author" itemprop="author">André Gide
+<span>by <small class="author" itemprop="author">Thomas A. Edison
+<span>by <small class="author" itemprop="author">Eleanor Roosevelt
+<span>by <small class="author" itemprop="author">Steve Martin
