@@ -25,7 +25,7 @@ class ScratchQuotes(scrapy.Spider):
         else:
             print("\n\n\n\n Last page")
 
-
+        #
         # print("Response From Server:",response.url)
         # print("Status From Server:", response.status)
         # print("Header", response.headers)
